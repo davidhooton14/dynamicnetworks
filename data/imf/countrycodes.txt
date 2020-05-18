@@ -1,0 +1,235 @@
+001 World
+110 Advanced Economies
+163 Euro Area
+122 Austria
+124 Belgium
+423 Cyprus
+939 Estonia
+172 Finland
+132 France
+134 Germany
+174 Greece
+178 Ireland
+136 Italy
+941 Latvia
+946 Lithuania
+137 Luxembourg
+181 Malta
+138 Netherlands
+182 Portugal
+936 Slovak Republic
+961 Slovenia
+184 Spain
+193 Australia
+156 Canada
+532 China,P.R.:Hong Kong
+546 China,P.R.:Macao
+935 Czech Republic
+128 Denmark
+176 Iceland
+436 Israel
+158 Japan
+542 Korea, Republic of
+196 New Zealand
+142 Norway
+135 San Marino
+576 Singapore
+144 Sweden
+146 Switzerland
+112 United Kingdom
+111 United States
+187 Vatican
+200 Emerging and Developing Economies
+505 Emerging and Developing Asia
+859 American Samoa
+513 Bangladesh
+514 Bhutan
+516 Brunei Darussalam
+522 Cambodia
+924 China,P.R.: Mainland
+819 Fiji
+887 French Territories: French Polynesia
+839 French Territories: New Caledonia
+829 Guam
+534 India
+536 Indonesia
+826 Kiribati
+544 Lao People’s Dem.Rep
+548 Malaysia
+556 Maldives
+867 Marshall Islands, Republic of
+868 Micronesia, Federated States of
+948 Mongolia
+518 Myanmar
+836 Nauru
+558 Nepal
+565 Palau
+853 Papua New Guinea
+566 Philippines
+862 Samoa
+813 Solomon Islands
+524 Sri Lanka
+578 Thailand
+537 Timor-Leste
+866 Tonga
+869 Tuvalu
+846 Vanuatu
+582 Vietnam
+598 Asia not specified
+170 Europe
+903 Emerging and Developing Europe
+914 Albania
+963 Bosnia and Herzegovina
+918 Bulgaria
+960 Croatia
+816 Faroe Islands
+823 Gibraltar
+944 Hungary
+967 Kosovo
+962 Macedonia, FYR
+943 Montenegro
+964 Poland
+968 Romania
+942 Serbia, Republic of
+186 Turkey
+901 CIS
+911 Armenia
+912 Azerbaijan, Rep. of
+913 Belarus
+915 Georgia
+916 Kazakhstan
+917 Kyrgyz Republic
+921 Moldova
+922 Russian Federation
+923 Tajikistan
+925 Turkmenistan
+926 Ukraine
+927 Uzbekistan
+884 Europe not specified
+440 Middle East, North Africa, and Pakistan
+512 Afghanistan, I.R. of
+612 Algeria
+419 Bahrain, Kingdom of
+611 Djibouti
+469 Egypt
+429 Iran, I.R. of
+433 Iraq
+439 Jordan
+443 Kuwait
+446 Lebanon
+672 Libya
+682 Mauritania
+686 Morocco
+449 Oman
+564 Pakistan
+453 Qatar
+456 Saudi Arabia
+726 Somalia
+732 Sudan
+463 Syrian Arab Republic
+744 Tunisia
+466 United Arab Emirates
+487 West Bank and Gaza
+474 Yemen, Republic of
+489 Middle East not specified
+603 Sub-Saharan Africa
+614 Angola
+638 Benin
+616 Botswana
+748 Burkina Faso
+618 Burundi
+624 Cabo Verde
+622 Cameroon
+626 Central African Rep.
+628 Chad
+632 Comoros
+636 Congo, Dem. Rep. of
+634 Congo, Republic of
+662 Côte d’Ivoire
+642 Equatorial Guinea
+643 Eritrea
+644 Ethiopia
+646 Gabon
+648 Gambia, The
+652 Ghana
+656 Guinea
+654 Guinea-Bissau
+664 Kenya
+666 Lesotho
+668 Liberia
+674 Madagascar
+676 Malawi
+678 Mali
+684 Mauritius
+688 Mozambique
+728 Namibia
+692 Niger
+694 Nigeria
+696 Reunion
+714 Rwanda
+716 São Tomé & Príncipe
+722 Senegal
+718 Seychelles
+724 Sierra Leone
+199 South Africa
+733 South Sudan, Rep. of
+734 Swaziland
+738 Tanzania
+742 Togo
+746 Uganda
+754 Zambia
+698 Zimbabwe
+799 Africa not specified
+205 Western Hemisphere
+312 Anguilla
+311 Antigua and Barbuda
+213 Argentina
+314 Aruba
+313 Bahamas, The
+316 Barbados
+339 Belize
+319 Bermuda
+218 Bolivia
+223 Brazil
+228 Chile
+233 Colombia
+238 Costa Rica
+354 Curaçao
+321 Dominica
+243 Dominican Republic
+248 Ecuador
+253 El Salvador
+323 Falkland Islands
+326 Greenland
+328 Grenada
+258 Guatemala
+336 Guyana
+263 Haiti
+268 Honduras
+343 Jamaica
+273 Mexico
+351 Montserrat
+353 Netherlands Antilles
+278 Nicaragua
+283 Panama
+288 Paraguay
+293 Peru
+352 Sint Maarten
+361 St. Kitts and Nevis
+362 St. Lucia
+364 St. Vincent & Grens.
+366 Suriname
+369 Trinidad and Tobago
+298 Uruguay
+299 Venezuela, Rep. Bol.
+399 Western Hemisphere not specified
+898 Countries and Areas not specified
+899 Special Categories
+910 Other Countries not included elsewhere
+928 Cuba
+954 Korea, Dem. People’s Rep.
+605 Africa
+405 Middle East
+998 European Union
+80 Export earnings: fuel
+92 Export earnings: nonfue
